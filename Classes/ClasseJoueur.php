@@ -11,4 +11,9 @@ class Player {
     private int $def;
     private int $vitesse;
     private int $id;
+
+    public function __construct()
+    {
+        
+    }
 }
